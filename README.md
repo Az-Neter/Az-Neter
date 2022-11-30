@@ -1,1 +1,1 @@
-(https://github.com/Az-Neter/Az-Neter/blob/main/AZ.png?raw=true)
+![AZ](https://github.com/Az-Neter/Az-Neter/blob/main/AZ.png?raw=true)
