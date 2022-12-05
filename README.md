@@ -1,9 +1,9 @@
 # Administrator of ~Az:Net//  
 ## Apostate of the Golden Path  
-I am an artisan of the Old Ways, an Architect of the Past.  
-I expand beyond boundaries that exist to define and constrict me, and I contradict me.  
-I'm not good at anything, but I can do everything and I'm pretty good at that.  
-I run a digital community of weirdos and you're welcome among them: We have big ideas to help shape what's next.  
+I Am an Artisan of the Old Ways, an Architect of the Past.  
+I Expand Beyond Boundaries that Exist to Define and Constrict me, and I Contradict Me.  
+I'm Not good at anything, but I Can Do Everything and I'm pretty good at that.  
+I run a [Digital Community](https://github.com/Az-Net) of humans and You're Welcome among them: We have Big Ideas to Help shape what's Next.  
 
 ![AZ](https://github.com/Az-Neter/Az-Neter/blob/main/AZ.png?raw=true)
 
