@@ -1,5 +1,9 @@
 # Administrator of ~Az:Net//  
-## Apostate of the Golden Path
+## Apostate of the Golden Path  
+I am an artisan of the Old Ways, an Architect of the Past.  
+I expand beyond boundaries that exist to define and constrict me, and I contradict me.  
+I'm not good at anything, but I can do everything and I'm pretty good at that.  
+I run a digital community of weirdos and you're welcome among them: We have big ideas to help shape what's next.  
 
 ![AZ](https://github.com/Az-Neter/Az-Neter/blob/main/AZ.png?raw=true)
 
