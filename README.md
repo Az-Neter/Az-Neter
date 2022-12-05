@@ -3,7 +3,7 @@
 I Am an Artisan of the Old Ways, an Architect of the Past.  
 I Expand Beyond Boundaries that Exist to Define and Constrict me, and I Contradict Me.  
 I'm Not good at anything, but I Can Do Everything and I'm pretty good at that.  
-I run a [Digital Community](https://github.com/Az-Net) of humans and You're Welcome among them: We have Big Ideas to Help shape what's Next.  
+I manage a [Digital Community](https://github.com/Az-Net) of humans and You're Welcome among them: We have Big Ideas to Help shape what's Next.  
 
 ![AZ](https://github.com/Az-Neter/Az-Neter/blob/main/AZ.png?raw=true)
 
