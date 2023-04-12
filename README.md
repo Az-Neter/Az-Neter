@@ -3,4 +3,6 @@ I Am an Artisan of the Old Ways, an Architect of the Past.
 I Expand Beyond Boundaries that Exist to Define and Constrict me, and I Contradict Me.  
 I'm Not good at anything.
 
-To contact me: #az:gitter.im on Matrix
+[My Profiles](https://linktr.ee/az.net)  
+To contact me, [send a message to my personal AI](https://lainrunner20-az-net.personal.ai/messaging/profile)
+
