@@ -19,5 +19,3 @@ ETH: 0xA2E270fc913Ca75b9F88F3536C0EE0Fd22C020aE
 BTC: bc1qmjmng7a0pmm395f00sxyqutdr79gg3hnjecqz0
 
 LTC: ltc1qskjhuuzws5sqncfkzfm4x8dgwrsxdmmhzxjuyc
-
-Doge: DCBKaYQPJjK44kzMzz6QnEs9FFEJoAN876
