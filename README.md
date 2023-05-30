@@ -7,7 +7,6 @@
 [Email Contact (for those without a Personal.AI)](mailto:lainrunner@protonmail.com)
 
 [NET Contact (For Strangers)](https://0az1.personal.ai/)  
-[IRL Contact (For Friends)](https://0az1-z.personal.ai/)
 
 [My Public-Service Work](https://github.com/Az-Net)
 
