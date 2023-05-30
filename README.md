@@ -1,5 +1,7 @@
 ## Apostate of the Golden Path  
   
+  I traverse uncharted territories, fusing the enigmatic arts with the boundless potential of cutting-edge technology. 
+  
 [My Links](https://linktr.ee/az.net/)
   
 [Email Contact (for those without a Personal.AI)](mailto:lainrunner@protonmail.com)
