@@ -10,7 +10,7 @@
 
 [My Public-Service Work](https://github.com/Az-Net)
 
-[My Open-Collective](https://opencollective.com/aznet)
+[My Open-Collective](https://opencollective.com/aznet) (Work In-Progress, someone plz halp)
 
 My Wallets (donate ETH to help keep me Alive)
 
