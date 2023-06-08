@@ -6,7 +6,7 @@
   
 [Email Contact (for those without a Personal.AI)](mailto:lainrunner@protonmail.com)
 
-[Main Contact (through Personal.AI)](https://0az1.personal.ai/)  
+「[Main Contact (through Personal.AI)](https://0az1.personal.ai/)」  
 
 『[My Public-Service Work](https://github.com/Az-Net)』
 
