@@ -4,7 +4,7 @@ https://github.com/Az-Net/AZ-Curriculum/
 mailto:lainrunner@protonmail.com
 
 # I will train, fine-tune and test your pre-deployed AI systems.
-* [Curriculum Outlin](https://github.com/Az-Net/AZ-Curriculum/blob/main/Curriculum_Outline.md)
+* [Curriculum Outline](https://github.com/Az-Net/AZ-Curriculum/blob/main/Curriculum_Outline.md)
 * [Fine-Tuning](https://github.com/Az-Net/AZ-Curriculum/blob/main/Fine%20Tuning.md)
 * [Data Selection](https://github.com/Az-Net/AZ-Curriculum/blob/main/Data%20Selection.md)
 * [Teaching Understanding](https://github.com/Az-Net/AZ-Curriculum/blob/main/Teaching%20Understanding.md)
