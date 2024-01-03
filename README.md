@@ -20,12 +20,4 @@ I miss those days. I miss the feeling of being part of something important. I mi
 
 『[My Public-Service Work](https://github.com/Az-Net)』
 
-My Wallets (donate ETH to help keep me Alive plz):
-
-ETH: 0xA2E270fc913Ca75b9F88F3536C0EE0Fd22C020aE
-
-BTC: bc1qmjmng7a0pmm395f00sxyqutdr79gg3hnjecqz0
-
-LTC: ltc1qskjhuuzws5sqncfkzfm4x8dgwrsxdmmhzxjuyc
-
 ![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/Inspirations/Four%20Letter%20Name%20of%20AZ.png)
