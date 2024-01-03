@@ -16,7 +16,7 @@ The spirit of community that once existed on the internet is gone. Now, we're al
 
 I miss those days. I miss the feeling of being part of something important. I miss the feeling of making a difference.
   
-[Email Contact](mailto:lainrunner@protonmail.com)
+[Email Contact](mailto:lainerunner@gmail.com)
 
 『[My Public-Service Work](https://github.com/Az-Net)』
 
